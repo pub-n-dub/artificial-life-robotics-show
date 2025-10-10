@@ -6,7 +6,7 @@ _Episode #1_: What is Artificial Life and its Embodiment?
 |:-----------------------------------------------:|:------------:|:------:|
 | Intro (music)                                   |      10      |  0:00  |
 | Podcast intro                                   |       9      |  00:10 |
-| Follow-on intro music                           |       9      |  00:19 |
+| Follow-on intro (music)                         |       9      |  00:19 |
 | Episode intro                                   |      11      |  00:28 |
 | Podcast novice confession                       |      74      |  00:39 |
 | Me and organization details                     |      52      |  01:55 |
@@ -33,7 +33,6 @@ _Episode #1_: What is Artificial Life and its Embodiment?
 | Contact me with questions                       |              |  33:57 |
 | Close (music - voice overlay)                   |      10      |  34:19 |
 | END                                             |              |  34:29 |
-|                                                 |              |        |
 
 `LEAD-OUT` - A system of hierarchies (in software), subsequent to the survival mechanism.
 
