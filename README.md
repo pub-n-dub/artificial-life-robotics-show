@@ -8,7 +8,7 @@ This podcast explores themes within Cybernetics and Artificial Life.
 
 ### Episode structure
 
-Each episode in this series is structure in the following manner:
+Each episode in this series is structured in the following manner:
 
 | Intro music (first-half) || Podcast intro voice || Intro music (second-half) || Welcome and podcast number |
 
