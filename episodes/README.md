@@ -4,7 +4,7 @@ _Episode #1_: What is Artificial Life and its Embodiment?
 
 |                 Content (theme)                 | Duration (s) | Marker |
 |:-----------------------------------------------:|:------------:|:------:|
-| Intro (music)                                   |      10      |  0:00  |
+| Intro (music)                                   |      10      |  00:00 |
 | Podcast intro                                   |       9      |  00:10 |
 | Follow-on intro (music)                         |       9      |  00:19 |
 | Episode intro                                   |      11      |  00:28 |
@@ -38,3 +38,34 @@ _Episode #1_: What is Artificial Life and its Embodiment?
 
 _Episode #2_: THe survival mechanism: A system of hierarchies
 
+| Content (theme)         | Duration (s) | Marker |
+|-------------------------|:------------:|:------:|
+| Intro (music)           |      10      |  00:00 |
+| Podcast intro           |      10      |  00:10 |
+| Follow-on intro (music) |      10      |  00:20 |
+| Episode intro           |      10      |  00:30 |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
+|                         |              |        |
