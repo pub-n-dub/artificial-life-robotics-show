@@ -12,7 +12,7 @@ Here is a list of the current and past episodes:
 
 _Episode #1_
 
-Published 6 August 2025, length 30 minutes.
+Published 6 August 2025, length 34:30.
 
 * Part 1
 
