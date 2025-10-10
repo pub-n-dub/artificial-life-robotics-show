@@ -1,6 +1,6 @@
 ## Podcast Episodes
 
-_Episode #1_
+_Episode #1_: What is Artificial Life and its Embodiment?
 
 |                 Content (theme)                 | Duration (s) | Marker |
 |:-----------------------------------------------:|:------------:|:------:|
@@ -35,4 +35,7 @@ _Episode #1_
 | END                                             |              |  34:29 |
 |                                                 |              |        |
 
-`LEAD-OUT` - A system of heirarchies (in software)
+`LEAD-OUT` - A system of hierarchies (in software), subsequent to the survival mechanism.
+
+_Episode #2_: THe survival mechanism: A system of hierarchies
+
