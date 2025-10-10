@@ -1,6 +1,6 @@
 ## Episode planning
 
-_Episode #1_
+_Episode #1_: An introduction to the concept of artificial life from the viewpoint of Cybernetics.
 
 What is artificial life and its embodiment?
 
@@ -11,12 +11,12 @@ What is artificial life and its embodiment?
 * Part Three
     - A prospect of Cybernetics.
 
-_Episode #2_
+_Episode #2_: An exploration of a major substantive theme of embodied artificial life.
 
 The survival mechanism: _A system of hierarchies_
 
 * Part One
-    - Embodied robotics: The necessity of a model to support hierarchies.
+    - Embodied robotics: The necessity of models to support hierarchies.
 * Part Two
     - Approachable hardware: The iCybie and customized platforming.
 * Part Three
