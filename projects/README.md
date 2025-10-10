@@ -2,11 +2,22 @@
 
 _Episode #1_
 
-Conceived and recorded in one-go in a tiny flat in the middle of Prague. On minimal hardware and software to demonstrate baseline capabilities.
+What is artificial life and its embodiment?
+
+* Part One
+    - What is artificial life verses what is artificial intelligence?
+* Part Two
+    - The history of artificial life as Cybernetics.
+* Part Three
+    - A prospect of Cybernetics.
 
 _Episode #2_
 
-The survival mechanism: A system of hierarchies.
+The survival mechanism: _A system of hierarchies_
 
 * Part One
-    - Embodied robotics: The necessity of a model to support hierarchies
+    - Embodied robotics: The necessity of a model to support hierarchies.
+* Part Two
+    - Approachable hardware: The iCybie and customized platforming.
+* Part Three
+    - 
