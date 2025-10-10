@@ -10,15 +10,15 @@ _Episode #1_: What is Artificial Life and its Embodiment?
 | Episode intro                                   |      11      |  00:28 |
 | Podcast novice confession                       |      74      |  00:39 |
 | Me and organization details                     |      52      |  01:55 |
-| What is AL?                                     |              |  02:47 |
-| Programming languages (C)                       |              |  04:21 |
-| Embodiment: iCybie                              |              |  04:48 |
-| Behaviour protocols                             |              |  06:06 |
-| Embodiment examples                             |              |  07:30 |
-| iCybie thru the lens of AL                      |              |  08:20 |
-| Adaptation reference                            |              |  09:29 |
-| AL vs AI interpretations                        |              |  09:32 |
-| Adaptation revealed via AL                      |              |  10:50 |
+| What is AL?                                     |      53      |  02:47 |
+| Programming languages (C)                       |      94      |  04:21 |
+| Embodiment: iCybie                              |      27      |  04:48 |
+| Behaviour protocols                             |      78      |  06:06 |
+| Embodiment examples                             |      82      |  07:30 |
+| iCybie thru the lens of AL                      |      50      |  08:20 |
+| Adaptation reference                            |      -x-     |  09:29 |
+| AL vs AI interpretations                        |      62      |  09:32 |
+| Adaptation revealed via AL                      |      78      |  10:50 |
 | Break (music)                                   |      20      |  10:54 |
 | History of AL as Cybernetics                    |              |  11:14 |
 | Intellectual models                             |              |  22:31 |
