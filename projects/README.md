@@ -8,4 +8,5 @@ _Episode #2_
 
 The survival mechanism: A system of hierarchies.
 
-* 
+* Part One
+    - Embodied robotics: The necessity of a model to support hierarchies
