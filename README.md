@@ -1,6 +1,6 @@
 ## artificial-life-robotics-show
 
-The Artificial Life Robotics Show podcast. This content is suitable for people of all ages.
+The Artificial Life Robotics Show podcast. This content is suitable for listeners of all ages.
 
 ## Background
 
