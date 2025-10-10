@@ -8,7 +8,7 @@ This podcast explores themes within Cybernetics and Artificial Life.
 
 ### Episode structure
 
-Introduced as:
+Each episode in this series is structure in the following manner:
 
 | Intro music (first-half) || Podcast intro voice || Intro music (second-half) || Welcome and podcast number |
 
@@ -25,4 +25,4 @@ In three parts:
 _Episodes_
 
 * [Episode-1](/episodes/README.md) 6 August 2025, length 34:30.
-* [Episode-2](/episodes/README.md) 12 October 2025, length 31:10.
+* [Episode-2](/episodes/README.md) In production.
