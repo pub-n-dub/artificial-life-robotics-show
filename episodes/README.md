@@ -1,6 +1,6 @@
 ## Podcast Episodes
 
-_Episode #1_: What is Artificial Life and its Embodiment?
+_Episode #1_: What is artificial life and its embodiment?
 
 |                 Content (theme)                 | Duration (s) | Marker |
 |:-----------------------------------------------:|:------------:|:------:|
