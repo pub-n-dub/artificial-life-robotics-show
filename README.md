@@ -24,5 +24,5 @@ In three parts:
 
 _Episodes_
 
-* [Episode-1](/episodes/README.md) 6 August 2025, length 34:30.
-* [Episode-2](/episodes/README.md) In production.
+* [Episode-1](/episodes/README.md) - 6 August 2025, length 34:30.
+* [Episode-2](/episodes/README.md)  - `in production`.
