@@ -20,4 +20,4 @@ The survival mechanism: _A system of hierarchies_
 * Part Two
     - Approachable hardware: The iCybie and customized platforming.
 * Part Three
-    - 
+    - The problem of energy.
