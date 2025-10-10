@@ -6,14 +6,23 @@ The Artificial Life Robotics Show podcast. This content is suitable for listener
 
 This podcast explores themes within Cybernetics and Artificial Life.
 
-### Episodes
+### Episode structure
 
-Here is a list of the current and past episodes:
+Introduced as:
 
-_Episode #1_
+| Intro music (first-half) || Podcast intro voice || Intro music (second-half) || Welcome and podcast number |
 
-[Published](/episodes/README.md) 6 August 2025, length 34:30.
+| Part One (10 minutes) || Music break (10 seconds) || Part Two (10 minutes) || Music break (10 seconds) || Part Three (10 minutes) || Closing music w/voice overlay (20 seconds) |
 
-* Part 1
+In three parts:
 
-Words.
+1. Part One: Introduction of the podcast theme formulated as a question.
+2. Part Two: Exploration of the theme. How is it manifest?
+3. Part Three: Prospects, analysis, and examples of the theme.
+
+`Lead-Out` - Topic of the next episode.
+
+_Episodes_
+
+* [Episode-1](/episodes/README.md) 6 August 2025, length 34:30.
+* [Episode-2](/episodes/README.md) 12 October 2025, length 31:10.
