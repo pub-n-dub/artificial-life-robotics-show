@@ -40,8 +40,8 @@ _Episode #2_: The survival mechanism: A system of hierarchies
 
 | Content (theme)         | Duration (s) | Marker |
 |-------------------------|:------------:|:------:|
-| Intro (music)           |      10      |  00:00 |
-| Podcast intro           |      10      |  00:10 |
+| Intro (candy)           |      10      |  00:00 |
+| Podcast intro           |       5      |  00:10 |
 | Follow-on intro (music) |      10      |  00:20 |
 | Episode intro           |      10      |  00:30 |
 |                         |              |        |
