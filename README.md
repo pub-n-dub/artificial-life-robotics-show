@@ -1,26 +1,32 @@
-## artificial-life-robotics-show
+## The Artificial Life Robotics Show
 
-The Artificial Life Robotics Show podcast. This content is suitable for listeners of all ages.
+![me](/images/alrs-mini.jpg)
 
-## Background
+A discussion of the concepts of artificial life, cybernetics, as they apply to problems in artificial intelligence. It is and will always be requisite to discuss these topics in terms of real hardware and software.
 
-This podcast explores themes within Cybernetics and Artificial Life.
+### Episode list
 
-### Episode structure
+Episode #1: An introduction to the concept of artificial life from the viewpoint of Cybernetics.
 
-Each episode in this series is structured in the following manner:
+What is artificial life and its embodiment?
 
-| Intro music (first-half) || Podcast intro voice || Intro music (second-half) || Welcome and podcast number |
+* Part One
+    - What is artificial life verses what is artificial intelligence?
+* Part Two
+    - The history of artificial life as Cybernetics.
+* Part Three
+    - A prospect of Cybernetics.
 
-| Part One (10 minutes) || Music break (10 seconds) || Part Two (10 minutes) || Music break (10 seconds) || Part Three (10 minutes) || Closing music w/voice overlay (20 seconds) |
+Episode #2: An exploration of a major substantive theme of embodied artificial life.
 
-In three parts:
+The survival mechanism: _A system of hierarchies_
 
-1. Part One: Introduction of the podcast theme formulated as a question.
-2. Part Two: Exploration of the theme. How is it manifest?
-3. Part Three: Prospects, analysis, and examples of the theme.
-
-`Lead-Out` - Topic of the next episode.
+* Part One
+    - Embodied robotics: The necessity of models to support hierarchies.
+* Part Two
+    - Approachable hardware: The iCybie and customized platforming.
+* Part Three
+    - The problem of energy.
 
 _Episodes_
 
