@@ -1,6 +1,10 @@
-## Episode planning
+## The Artificial Life Robotics Show
 
-_Episode #1_: An introduction to the concept of artificial life from the viewpoint of Cybernetics.
+![me](/images/alrs-mini.jpg)
+
+### Episode list
+
+* Episode #1: An introduction to the concept of artificial life from the viewpoint of Cybernetics.
 
 What is artificial life and its embodiment?
 
