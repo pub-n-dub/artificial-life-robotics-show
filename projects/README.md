@@ -4,7 +4,7 @@
 
 ### Episode list
 
-* Episode #1: An introduction to the concept of artificial life from the viewpoint of Cybernetics.
+Episode #1: An introduction to the concept of artificial life from the viewpoint of Cybernetics.
 
 What is artificial life and its embodiment?
 
@@ -15,7 +15,7 @@ What is artificial life and its embodiment?
 * Part Three
     - A prospect of Cybernetics.
 
-_Episode #2_: An exploration of a major substantive theme of embodied artificial life.
+Episode #2: An exploration of a major substantive theme of embodied artificial life.
 
 The survival mechanism: _A system of hierarchies_
 
