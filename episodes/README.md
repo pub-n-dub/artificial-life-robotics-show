@@ -57,3 +57,7 @@ Featured Power
 
 ![entropic-circuit](/episodes/artwork/the-entropic-circuit.jpg)
 The Entropic Circuit
+
+_Episode #3_: The myth and realities of self-writing code
+
+Words..

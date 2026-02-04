@@ -32,3 +32,4 @@ _Episodes_
 
 * [Episode-1](/episodes/README.md) - 6 August 2025, length 34:30.
 * [Episode-2](/episodes/README.md)  - 4 February 2026, length 21:02.
+* [Episode-3](/episodes/README.md)  - `in planning`.
