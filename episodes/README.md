@@ -40,34 +40,20 @@ _Episode #1_: What is artificial life and its embodiment?
 
 _Episode #2_: The survival mechanism: A system of hierarchies
 
-| Content (theme)         | Duration (s) | Marker |
-|-------------------------|:------------:|:------:|
-| Intro (candy)           |      10      |  00:00 |
-| Podcast intro           |       5      |  00:10 |
-| Follow-on intro (music) |      10      |  00:20 |
-| Episode intro           |      10      |  00:30 |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
-|                         |              |        |
+* Review of episode #1
+* Figures
+    - Featured Power
+    - The Entropic Circuit
+* Evolution and Adaptation
+--
+* Features as elements
+* Best features determined from experience
+* How to: The sohpistication of a given programming language
+
+Figures
+
+![featured-power](/episodes/artwork/featured-power.jpg)
+Featured Power
+
+![entropic-circuit](/episodes/artwork/the-entropic-circuit.jpg)
+The Entropic Circuit
