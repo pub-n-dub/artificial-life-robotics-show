@@ -24,7 +24,8 @@ The survival mechanism: _A system of hierarchies_
 * Part One
     - Embodied robotics: The necessity of models to support hierarchies.
 * Part Two
-    - Approachable hardware: The iCybie and customized platforming.
+    - Approachable hardware: The epistemic cut.
+    - Reading: [H.H.Pattee](https://binghamton.academia.edu/HowardPattee).
 * Part Three
     - The problem of energy.
 
