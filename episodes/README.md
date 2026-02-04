@@ -1,7 +1,5 @@
 ## Podcast Episodes
 
-![episode-01](/images/alrs-episode-01.jpg)
-
 _Episode #1_: What is artificial life and its embodiment?
 
 |                 Content (theme)                 | Duration (s) | Marker |
