@@ -38,7 +38,9 @@ _Episode #1_: What is artificial life and its embodiment?
 
 `LEAD-OUT` - A system of hierarchies (in software), subsequent to the survival mechanism.
 
-_Episode #2_: The survival mechanism: A system of hierarchies
+_Episode #2_: The survival mechanism
+
+A system of heirarchies supported by epistemic cuts to create the conditions for artificial life. I will discuss two diagrams that are availalbe on the podcast page: Featured power and the Entropic Circuit.
 
 * Review of episode #1
 * Figures
